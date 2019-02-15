@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xmlns:mvc="http://www.springframework.org/schema/mvc"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:p="http://www.springframework.org/schema/p"
+       xmlns:c="http://www.springframework.org/schema/c"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+          http://www.springframework.org/schema/beans/spring-beans-4.0.xsd
+          http://www.springframework.org/schema/context
+          http://www.springframework.org/schema/context/spring-context-4.0.xsd
+          http://www.springframework.org/schema/mvc
+          http://www.springframework.org/schema/mvc/spring-mvc-4.0.xsd">
+
+    <!-- 开启注解 -->
+
+   <!-- <bean id="messageSource" class="org.springframework.context.support.ReloadableResourceBundleMessageSource">
+        <property name="defaultEncoding" value="UTF-8"/>
+        <property name="basename" value="classpath:msg"/>
+        <property name="cacheSeconds" value="0"/>
+    </bean>-->
+
+     <!--<mvc:annotation-driven conversion-service="myConvert"> </mvc:annotation-driven>
+     <bean id="myConvert" class="org.springframework.format.support.FormattingConversionServiceFactoryBean">
+         <property name="converters">
+             <list>
+                <bean class="SixTeen.StringToRole"/>
+             </list>
+         </property>
+     </bean>-->
+    <context:property-placeholder location="classpath:*.properties"/>
+    <mvc:annotation-driven/>
+
+    <context:component-scan base-package="FourTeen,FiveTeen,SixTeen"/>
+
+    <bean id="messageSource"
+          class="org.springframework.context.support.ResourceBundleMessageSource">
+        <property name="basename" value="language" />
+        <property name="useCodeAsDefaultMessage" value="true" />
+    </bean>
+    <mvc:interceptors>
+        <bean class="org.springframework.web.servlet.i18n.LocaleChangeInterceptor" >
+        </bean>
+    </mvc:interceptors>
+    <bean id="localeResolver" class="org.springframework.web.servlet.i18n.SessionLocaleResolver" />
+    <!-- <bean id="requestMappingHandlerAdapter" class="org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter">
+         <property name="messageConverters">
+             <list>
+                 <bean class="org.springframework.http.converter.json.MappingJackson2HttpMessageConverter">
+                     <property name="supportedMediaTypes">
+                         <list>
+                             <value>application/json;charset=UTF-8</value>
+                         </list>
+                     </property>
+                 </bean>
+             </list>
+         </property>
+     </bean>
+ -->
+    <!--启动自动扫描该包下所有的Bean(例如@Controller)-->
+    <!-- Hibernate4 -->
+    <!-- 加载资源文件  其中包含变量信息，必须在Spring配置文件的最前面加载，即第一个加载-->
+
+   <!-- <bean id="multipartResolver" class="org.springframework.web.multipart.support.StandardServletMultipartResolver"></bean>-->
+<!--
+
+    <bean name="multipartResolver"
+          class="org.springframework.web.multipart.commons.CommonsMultipartResolver">
+        <property name="defaultEncoding" value="UTF-8"></property>
+    </bean>
+-->
+
+
+    <!--<&lt;!&ndash;->-bean id="role1" class="Dao.Role">
+        <property name="id" value="800"/>
+        <property name="name" value="fdsa"/>
+    </bean>
+    <bean id="role2" class="Dao.Role">
+        <property name="id" value="8543"/>
+        <property name="name" value="csdfs"/>
+    </bean>
+    <bean id="role3" class="Dao.Role" p:id="888" p:name="plcc">
+    </bean>
+    <bean name="role4" class="Dao.Role" c:_0="9" c:_1="dsa" c:id="" c:name=""/>
+    <bean id="xmlBean" class="Ten.Assembling.xmlBean">
+        <property name="id" value="1"/>
+        <property name="list">
+            <list>
+                <value>l</value>
+                <value>c</value>
+            </list>
+        </property>
+        <property name="array">
+            <array>
+                <value>array-1</value>
+                <value>array-2</value>
+            </array>
+        </property>
+        <property name="set">
+            <set>
+                <value>set-1</value>
+                <value>set-2</value>
+            </set>
+        </property>
+        <property name="map">
+            <map>
+                <entry key="1" value="map1"/>
+                <entry key="2" value="map2"/>
+            </map>
+        </property>
+        <property name="properties">
+            <props>
+                <prop key="id">pro-1</prop>
+                <prop key="name">pro-2</prop>
+            </props>
+        </property>
+    </bean>
+    <bean id="xmlBean2" class="Ten.Assembling.xmlBean２">
+        <property name="id" value="999"></property>
+        <property name="array">
+            <array>
+                <ref bean="role1"/>
+                <ref bean="role2"/>
+            </array>
+        </property>
+        <property name="list">
+            <list>
+                <ref bean="role1"></ref>
+            </list>
+        </property>
+        <property name="properties">
+            <props>
+                <prop key="id">role1</prop>
+            </props>
+        </property>
+        <property name="set">
+            <set>
+                <ref bean="role1"/>
+            </set>
+        </property>
+        <property name="map">
+            <map>
+                <entry key="2" value-ref="role1"/>
+            </map>
+        </property>
+    </bean>-->
+   <!-- <mvc:interceptors>
+        <mvc:interceptor>
+            <mvc:mapping path="/**"/>
+            <bean class="FiveTeen.MyInterceptor"/>
+        </mvc:interceptor>
+        <mvc:interceptor>
+            <mvc:mapping path="/**"/>
+            <bean class="FiveTeen.MyInterceptor2"></bean>
+        </mvc:interceptor>
+        <mvc:interceptor>
+            <mvc:mapping path="/**"/>
+            <bean class="FiveTeen.MyInterceptor3"></bean>
+        </mvc:interceptor>
+    </mvc:interceptors>-->
+
+</beans>

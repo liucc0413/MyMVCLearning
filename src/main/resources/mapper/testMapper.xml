@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="Three.Impl.RoleMapper">
+    <resultMap id="role" type="Dao.Role">
+        <result property="id" column="id"></result>
+        <!--<result property="name" column="name" jdbcType="VARCHAR" javaType="String"/>-->
+         <!-- <result property="name" column="name"  typeHandler="Four.TypeHandler.MyTypeHandler"/>-->
+        <result property="sex" column="sex" typeHandler="org.apache.ibatis.type.EnumOrdinalTypeHandler"/>
+       <!-- <result property="sex" column="sex" typeHandler="org.apache.ibatis.type.EnumTypeHandler"/>-->
+        <!--<result property="sex" column="sex" typeHandler="Four.TypeHandler.SexEnumHandler"/>&lt;!&ndash;配置文件包扫描，注解java类型和jdbc类型　(文件，连个类型必须)&ndash;&gt;-->
+       <!-- <result property="sex" column="sex" jdbcType="INTEGER" javaType="Four.TypeHandler.SexEnum"/>-->
+
+    </resultMap>
+    <sql id="sqlTest">
+        Role(id,name)
+    </sql>
+    <select id="getRole" parameterType="int" resultMap="role">
+    <!--<select id="getRole" parameterType="int" resultType="Dao.Role">-->
+      select * from Role where  id = #{id}
+    </select>
+    <select id="getRoleByIdAndName" parameterType="map" resultMap="role">
+        select * from Role where id = #{id} and name = #{name}
+    </select>
+    <select id="getRoleByIdAndNameParma"  resultMap="role">
+        select * from Role where id = #{id} and name = #{name}
+    </select>
+    <select id="getRoleByIdAndNameBean"  resultMap="role">
+        select * from Role where id = #{id} and name = #{name}
+    </select>
+    <select id="findByMix"  resultMap="role">
+        select * from Role where id = #{params.id} and name = #{params.name} limit #{page.start},#{page.end}
+    </select>
+    <select id="findRoleBylimit" resultMap="role">
+        select * from Role where name = #{name}
+    </select>
+    <insert id="insertGer">
+    <selectKey keyProperty="id"  resultType="INTEGER" order="BEFORE"  >
+        select if(max(id)=null, 1, max(id)+3) from Role
+    </selectKey>
+        insert into <include refid="sqlTest"/> values(#{id}, ${name})
+    </insert>
+    <select id="findbyIfName" resultType="role">
+        select * from Role where id != 0
+        <if test="name != null">
+          and name like concat('%', #{name}, '%')
+        </if>
+    </select>
+    <select id="findByIdOrName" resultType="role">
+        select * from Role where id != 0
+        <choose>
+            <when test="name != null">
+                and name like concat('%',#{name},'%')
+            </when>
+            <otherwise>
+                and sex is not null
+            </otherwise>
+        </choose>
+    </select>
+    <select id="findRangeId" resultType="role" >
+        select * from Role where id in
+        <foreach item="id" index="i"  collection="idList"   open='(' separator="," close=")">
+            #{id}
+        </foreach>
+    </select>
+    <select id="testCeshi" resultType="role" >
+        select * from Role
+        <if test="name == 'wo'.toString()">
+            where name = #{name}
+        </if>
+    </select>
+
+
+</mapper>

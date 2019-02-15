@@ -1,0 +1,2436 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Maven_MVC_test:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0958f413-f685-48d7-803b-23ad5aa6604f" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/.idea/httpRequests/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/maven$ThirteenMain_ceshi.ic" NAME="ThirteenMain.ceshi Coverage Results" MODIFIED="1534475154301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Thirteen.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/maven$mvcTest.ic" NAME="mvcTest Coverage Results" MODIFIED="1535963726754" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/maven$ContationMainTest.ic" NAME="ContationMainTest Coverage Results" MODIFIED="1533521417761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Five.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/maven$Main12_insertTest.ic" NAME="Main12.insertTest Coverage Results" MODIFIED="1534243138827" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Twelve.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/maven$MybatisTest.ic" NAME="MybatisTest Coverage Results" MODIFIED="1532398208004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Three.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/maven$test1.ic" NAME="test1 Coverage Results" MODIFIED="1536817328873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Tenseven.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set>
+        <option value="access-method" />
+        <option value="aggregate" />
+        <option value="alias-type" />
+        <option value="argument" />
+        <option value="body" />
+        <option value="check" />
+        <option value="cluster" />
+        <option value="collation" />
+        <option value="collection-type" />
+        <option value="column" />
+        <option value="connection" />
+        <option value="database" />
+        <option value="dblink" />
+        <option value="default" />
+        <option value="exception" />
+        <option value="external-schema" />
+        <option value="foreign-data-wrapper" />
+        <option value="foreign-key" />
+        <option value="foreign-table" />
+        <option value="index" />
+        <option value="key" />
+        <option value="materialized-log" />
+        <option value="materialized-view" />
+        <option value="object-attribute" />
+        <option value="object-type" />
+        <option value="operator" />
+        <option value="package" />
+        <option value="role" />
+        <option value="routine" />
+        <option value="rule" />
+        <option value="scheduled-event" />
+        <option value="schema" />
+        <option value="script" />
+        <option value="sequence" />
+        <option value="server" />
+        <option value="synonym" />
+        <option value="table-type" />
+        <option value="trigger" />
+        <option value="user" />
+        <option value="user-mapping" />
+        <option value="variable" />
+        <option value="view" />
+        <option value="virtual-table" />
+      </set>
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="lccTest@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="maven" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="spring-mvc-redis.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/spring-mvc-redis.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="460">
+              <caret line="48" column="49" lean-forward="true" selection-start-line="48" selection-start-column="49" selection-end-line="48" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RedisSimpleTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/JavaEE_Test/ShiBa/RedisSimpleTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-218">
+              <caret line="35" column="5" lean-forward="true" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyRedisListener.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/JavaEE_Test/ShiBa/MyRedisListener.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RedisTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/JavaEE_Test/ShiBa/RedisTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="22" column="55" lean-forward="true" selection-start-line="22" selection-start-column="55" selection-end-line="22" selection-end-column="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Tag Library Descriptor" />
+        <option value="Kotlin File" />
+        <option value="jsf" />
+        <option value="Jsp File" />
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>newInstance</find>
+      <find>ArrayList&lt;</find>
+      <find>enum</find>
+      <find>containt</find>
+      <find>Properties</find>
+      <find>add(</find>
+      <find>HashCode</find>
+      <find>Comparable</find>
+      <find>Comparator</find>
+      <find>Arrays.sort(as,(o1,o2)-&gt;stringSort.compare(o1,o2));</find>
+      <find>16</find>
+      <find>CONCURRENCY_LEVEL</find>
+      <find>searchEn</find>
+      <find>SimpleDateFormat</find>
+      <find>S</find>
+      <find>Arrays.</find>
+      <find>abstrac</find>
+      <find>defalut</find>
+      <find>utf</find>
+      <find>locale</find>
+      <find>intern</find>
+      <find>MultipartFile</find>
+      <find>ResourceBundle</find>
+      <find>socket</find>
+      <find>LocaleChangeInterceptor</find>
+      <find>jedis</find>
+      <find>datasource</find>
+      <find>insert</find>
+      <find>auto</find>
+      <find>redis</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>Role</replace>
+      <replace />
+      <replace>point()</replace>
+      <replace>/**</replace>
+      <replace>set1</replace>
+      <replace>set2</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/src/main/resources/Test</dir>
+      <dir>$MAVEN_REPOSITORY$/commons-httpclient/commons-httpclient/3.1/commons-httpclient-3.1.jar</dir>
+    </dirStrings>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../SpringSource/Spring-framework" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/CoreJava1/Six/Test1.java" />
+        <option value="$PROJECT_DIR$/src/main/CoreJava1/Six/Test2.java" />
+        <option value="$PROJECT_DIR$/src/main/CoreJava1/Six/MyTimerTask.java" />
+        <option value="$PROJECT_DIR$/src/main/CoreJava1/Six/PersionFather.java" />
+        <option value="$PROJECT_DIR$/src/main/CoreJava1/Six/SixPersion.java" />
+        <option value="$PROJECT_DIR$/src/main/CoreJava1/Six/NeibuTEst.java" />
+        <option value="$PROJECT_DIR$/src/main/CoreJava1/Six/MainInner.java" />
+        <option value="$PROJECT_DIR$/src/main/CoreJava1/Six/NeiBuLeiTest.java" />
+        <option value="$PROJECT_DIR$/src/main/CoreJava1/Six/MyInvocationHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/CoreJava1/Six/proxyJiekou.java" />
+        <option value="$PROJECT_DIR$/src/main/CoreJava1/Six/ProxyJieKouImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/CoreJava1/Six/MainTest.java" />
+        <option value="$PROJECT_DIR$/src/main/JavaEE_Test/FiveTeen/Test2.java" />
+        <option value="$PROJECT_DIR$/src/main/JavaEE_Test/FiveTeen/Controller19.java" />
+        <option value="$PROJECT_DIR$/src/main/CoreJava1/Seven/Seven2.java" />
+        <option value="$PROJECT_DIR$/src/main/CoreJava1/Seven/SevenMainTest.java" />
+        <option value="$PROJECT_DIR$/src/main/CoreJava1/Seven/Test1.java" />
+        <option value="$PROJECT_DIR$/src/main/CoreJava1/Seven/Test/Asserts.java" />
+        <option value="$PROJECT_DIR$/src/main/CoreJava1/Seven/Asserts.java" />
+        <option value="$PROJECT_DIR$/src/main/CoreJava1/Seven/logTest.java" />
+        <option value="$PROJECT_DIR$/src/main/CoreJava1/Seven/Mian.java" />
+        <option value="$PROJECT_DIR$/src/main/CoreJava1/Seven/Test/LoggerTest.java" />
+        <option value="$PROJECT_DIR$/src/main/CoreJava1/BA/Test2.java" />
+        <option value="$PROJECT_DIR$/src/main/CoreJava1/BA/Test1.java" />
+        <option value="$PROJECT_DIR$/src/main/CoreJava1/Five/Person.java" />
+        <option value="$PROJECT_DIR$/src/main/CoreJava1/BA/BaMain.java" />
+        <option value="$PROJECT_DIR$/src/main/JavaEE_Test/Four/TypeHandler/SexEnum.java" />
+        <option value="$PROJECT_DIR$/src/main/CoreJava1/Six/MyComparable.java" />
+        <option value="$PROJECT_DIR$/src/main/CoreJava1/Six/MyStringSort.java" />
+        <option value="$PROJECT_DIR$/src/main/CoreJava1/Six/MyComparator.java" />
+        <option value="$PROJECT_DIR$/src/main/CoreJava1/BA/Main2.java" />
+        <option value="$PROJECT_DIR$/src/main/CoreJava1/BA/SellTicket.java" />
+        <option value="$PROJECT_DIR$/src/main/CoreJava1/FourTeen/FourTheenMyThread1.java" />
+        <option value="$PROJECT_DIR$/src/main/CoreJava1/FourTeen/Test14.java" />
+        <option value="$PROJECT_DIR$/src/main/CoreJava1/FourTeen/wrongsingleton.java" />
+        <option value="$PROJECT_DIR$/src/main/CoreJava1/FourTeen/ThreadLocalTest.java" />
+        <option value="$PROJECT_DIR$/src/main/CoreJava1/FourTeen/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/CoreJava1/FourTeen/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/CoreJava1/FourTeen/JiHe.java" />
+        <option value="$PROJECT_DIR$/src/main/CoreJava1/FourTeen/TestCopyOnWriteArrayList.java" />
+        <option value="$PROJECT_DIR$/src/main/CoreJava1/FourTeen/MyCallable.java" />
+        <option value="$PROJECT_DIR$/src/main/CoreJava1/Two/Student.java" />
+        <option value="$PROJECT_DIR$/src/main/CoreJava1/FourTeen/RunnableMain.java" />
+        <option value="$PROJECT_DIR$/src/main/CoreJava1/FourTeen/CompleteFuture.java" />
+        <option value="$PROJECT_DIR$/src/main/CoreJava1/Five/Test1.java" />
+        <option value="$PROJECT_DIR$/src/main/CoreJava1/FourTeen/MyCompleteFuture.java" />
+        <option value="$PROJECT_DIR$/src/main/CoreJava1/FourTeen/CallableMain.java" />
+        <option value="$PROJECT_DIR$/src/main/JavaEE_Test/ShiBa/test1.java" />
+        <option value="$PROJECT_DIR$/src/main/JavaEE_Test/ShiBa/RedisTest.java" />
+        <option value="$PROJECT_DIR$/src/main/JavaEE_Test/Tenseven/RedisSimpleTest.java" />
+        <option value="$PROJECT_DIR$/src/main/JavaEE_Test/ShiBa/RedisSimpleTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="/opt/web/maven/apache-maven-3.5.2" />
+        <option name="userSettingsFile" value="$USER_HOME$/workspace/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="67" />
+    <option name="y" value="27" />
+    <option name="width" value="1843" />
+    <option name="height" value="1053" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="maven" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Maven_MVC_test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="maven" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Maven_MVC_test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="maven" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Maven_MVC_test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="maven" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Maven_MVC_test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="CoreJava1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="maven" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Maven_MVC_test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="CoreJava1" type="462c0819:PsiDirectoryNode" />
+              <item name="FourTeen" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="maven" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Maven_MVC_test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaEE_Test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="maven" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Maven_MVC_test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaEE_Test" type="462c0819:PsiDirectoryNode" />
+              <item name="Four" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="maven" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Maven_MVC_test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaEE_Test" type="462c0819:PsiDirectoryNode" />
+              <item name="ShiBa" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="maven" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Maven_MVC_test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="maven" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Maven_MVC_test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="mapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="maven" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Maven_MVC_test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="MyBatisTest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="maven" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Maven_MVC_test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="Test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="maven" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="maven" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="maven" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="maven" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="maven" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="maven" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+              <item name="concurrent" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="maven" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: junit:junit:4.10" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="maven" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: junit:junit:4.10" type="70bed36:NamedLibraryElementNode" />
+              <item name="junit-4.10.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="maven" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: junit:junit:4.10" type="70bed36:NamedLibraryElementNode" />
+              <item name="junit-4.10.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="maven" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: junit:junit:4.10" type="70bed36:NamedLibraryElementNode" />
+              <item name="junit-4.10.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="junit" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="maven" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: junit:junit:4.10" type="70bed36:NamedLibraryElementNode" />
+              <item name="junit-4.10.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="junit" type="462c0819:PsiDirectoryNode" />
+              <item name="runner" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="Amazon Redshift&#10;MariaDB" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="go.gopath.indexing.explicitly.defined" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/JavaEE_Test/Three/Impl" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Three.Impl" />
+      <recent name="Two.Inceptor" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="Two" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+      <recent name="$PROJECT_DIR$/src/main/JavaEE_Test/FiveTeen" />
+      <recent name="$PROJECT_DIR$/src/main/JavaEE_Test/Thirteen" />
+      <recent name="$PROJECT_DIR$/src/main/resources/MyBatisTest" />
+      <recent name="$PROJECT_DIR$/src/main/resources/mapper" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Six" />
+      <recent name="Two" />
+      <recent name="" />
+      <recent name="ShiBa" />
+      <recent name="FiveTeen.Validation" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main" />
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/lib" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+      <recent name="$PROJECT_DIR$/target/maven/WEB-INF/classes" />
+    </key>
+  </component>
+  <component name="RestClientSettings">
+    <option name="REQUEST_HISTORY">
+      <list>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="-1" />
+                <option name="domain" value="10.156.1.33" />
+                <option name="name" value="JSESSIONID" />
+                <option name="path" value="/uim/" />
+                <option name="value" value="165F973ECBB55AF279CB5EEF1BEAD15E" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://10.156.1.33:80" />
+          <option name="urlPath" value="/uim/api/v1/users" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="AccessKeyId" />
+                <option name="value" value="cplat" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Signature" />
+                <option name="value" value="TShv6H5rhpGO5yadd1YoTLYj0S0J00ZUW0+rB/RJrqg=" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="SignatureVersion" />
+                <option name="value" value="1.0" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="SignatureNonce" />
+                <option name="value" value="0477ae68-4408-459c-8850-e9bf99f579ce" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="SignatureMethod" />
+                <option name="value" value="HMAC-SHA256" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Timestamp" />
+                <option name="value" value="2018-10-23T10:30:38Z" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="-1" />
+                <option name="domain" value="10.156.1.33" />
+                <option name="name" value="JSESSIONID" />
+                <option name="path" value="/uim/" />
+                <option name="value" value="165F973ECBB55AF279CB5EEF1BEAD15E" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://10.156.1.33:80" />
+          <option name="urlPath" value="/uim/api/v1/users" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="AccessKeyId" />
+                <option name="value" value="cplat" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Signature" />
+                <option name="value" value="TShv6H5rhpGO5yadd1YoTLYj0S0J00ZUW0+rB/RJrqg=" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="SignatureVersion" />
+                <option name="value" value="1.0" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="SignatureNonce" />
+                <option name="value" value="a6fe704e-318d-46c1-8b22-fe27807aa512" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="SignatureMethod" />
+                <option name="value" value="HMAC-SHA256" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Timestamp" />
+                <option name="value" value="2018-10-23T10:26:50Z" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="-1" />
+                <option name="domain" value="10.156.1.33" />
+                <option name="name" value="JSESSIONID" />
+                <option name="path" value="/uim/" />
+                <option name="value" value="165F973ECBB55AF279CB5EEF1BEAD15E" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://10.156.1.33:80" />
+          <option name="urlPath" value="/uim/api/v1/users" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="accessKeyId" />
+                <option name="value" value="cplat" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="accessKeySecret" />
+                <option name="value" value="cplat-secret" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://10.156.1.33:80" />
+          <option name="urlPath" value="/uim" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="accessKeyId" />
+                <option name="value" value="cplat" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="accessKeySecret" />
+                <option name="value" value="cplat-secret" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+      </list>
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+    </configuration>
+    <configuration name="Base64Utils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Utils.Base64Utils" />
+      <module name="Maven_MVC_test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="MainInner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Six.MainInner" />
+      <module name="Maven_MVC_test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Six.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="RunnableMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FourTeen.RunnableMain" />
+      <module name="Maven_MVC_test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FourTeen.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="MyCompleteFuture.method" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Maven_MVC_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FourTeen.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="FourTeen" />
+      <option name="MAIN_CLASS_NAME" value="FourTeen.MyCompleteFuture" />
+      <option name="METHOD_NAME" value="method" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="RedisSimpleTest.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Maven_MVC_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ShiBa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="ShiBa" />
+      <option name="MAIN_CLASS_NAME" value="ShiBa.RedisSimpleTest" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="RedisSimpleTest.test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Maven_MVC_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ShiBa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="ShiBa" />
+      <option name="MAIN_CLASS_NAME" value="ShiBa.RedisSimpleTest" />
+      <option name="METHOD_NAME" value="test3" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="RedisTest.test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Maven_MVC_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ShiBa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="ShiBa" />
+      <option name="MAIN_CLASS_NAME" value="ShiBa.RedisTest" />
+      <option name="METHOD_NAME" value="test3" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="mvcTest" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.68" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="1.7">
+      <option name="OPEN_IN_BROWSER_URL" value="http://10.160.0.95:8081/lcc/" />
+      <deployment>
+        <artifact name="Maven_MVC_test:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/lcc" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_maven" />
+        <option name="HTTP_PORT" value="8081" />
+        <option name="JNDI_PORT" value="1092" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="34727" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Maven_MVC_test:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Tomcat Server.mvcTest" />
+      <item itemvalue="Application.RunnableMain" />
+      <item itemvalue="Application.Base64Utils" />
+      <item itemvalue="JUnit.RedisSimpleTest.test2" />
+      <item itemvalue="JUnit.RedisSimpleTest.test3" />
+      <item itemvalue="JUnit.RedisTest.test3" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.RedisSimpleTest.test3" />
+        <item itemvalue="JUnit.RedisTest.test3" />
+        <item itemvalue="JUnit.RedisSimpleTest.test2" />
+        <item itemvalue="Application.Base64Utils" />
+        <item itemvalue="Application.RunnableMain" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0958f413-f685-48d7-803b-23ad5aa6604f" name="Default" comment="" />
+      <created>1531382814118</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1531382814118</updated>
+      <workItem from="1531382818924" duration="9566000" />
+      <workItem from="1531445361259" duration="14781000" />
+      <workItem from="1531795743675" duration="7531000" />
+      <workItem from="1531816167697" duration="609000" />
+      <workItem from="1531816805568" duration="2067000" />
+      <workItem from="1531818907410" duration="800000" />
+      <workItem from="1531894041363" duration="4386000" />
+      <workItem from="1531979008987" duration="22113000" />
+      <workItem from="1532418300208" duration="5666000" />
+      <workItem from="1532481882981" duration="22062000" />
+      <workItem from="1532918297776" duration="4668000" />
+      <workItem from="1533006824377" duration="3162000" />
+      <workItem from="1533026832244" duration="2991000" />
+      <workItem from="1533258907105" duration="595000" />
+      <workItem from="1533277948969" duration="13651000" />
+      <workItem from="1533519256079" duration="15170000" />
+      <workItem from="1533609339431" duration="3000" />
+      <workItem from="1533609537872" duration="32627000" />
+      <workItem from="1533722180564" duration="151000" />
+      <workItem from="1533722353593" duration="1481000" />
+      <workItem from="1533778571959" duration="7862000" />
+      <workItem from="1533810296834" duration="13901000" />
+      <workItem from="1534127776142" duration="68891000" />
+      <workItem from="1534731414205" duration="28382000" />
+      <workItem from="1534903073978" duration="13327000" />
+      <workItem from="1534993156394" duration="19887000" />
+      <workItem from="1535334059347" duration="10543000" />
+      <workItem from="1535358538673" duration="24906000" />
+      <workItem from="1535618246312" duration="13582000" />
+      <workItem from="1535944531068" duration="12138000" />
+      <workItem from="1536114723680" duration="690000" />
+      <workItem from="1536118273073" duration="4000" />
+      <workItem from="1536651955313" duration="14885000" />
+      <workItem from="1537237735795" duration="2517000" />
+      <workItem from="1537256952079" duration="27279000" />
+      <workItem from="1537862621295" duration="24166000" />
+      <workItem from="1538104305615" duration="6060000" />
+      <workItem from="1538185703394" duration="18446000" />
+      <workItem from="1538964185296" duration="19679000" />
+      <workItem from="1539325526040" duration="35324000" />
+      <workItem from="1539764280844" duration="3607000" />
+      <workItem from="1539826770977" duration="25097000" />
+      <workItem from="1540172738559" duration="731000" />
+      <workItem from="1540178372023" duration="2550000" />
+      <workItem from="1540277378651" duration="6460000" />
+      <workItem from="1540376820026" duration="2066000" />
+      <workItem from="1540456104599" duration="849000" />
+      <workItem from="1540458046334" duration="1346000" />
+      <workItem from="1540538724299" duration="646000" />
+      <workItem from="1540540557709" duration="6469000" />
+      <workItem from="1540776161919" duration="16054000" />
+      <workItem from="1540970174020" duration="10728000" />
+      <workItem from="1541381493074" duration="5410000" />
+      <workItem from="1541407489938" duration="1877000" />
+      <workItem from="1541497653642" duration="24884000" />
+      <workItem from="1541986342116" duration="7732000" />
+      <workItem from="1542072861460" duration="27371000" />
+      <workItem from="1542597896332" duration="90000" />
+      <workItem from="1542691033493" duration="764000" />
+      <workItem from="1542709167205" duration="1359000" />
+      <workItem from="1543200279189" duration="1278000" />
+      <workItem from="1543470954935" duration="946000" />
+      <workItem from="1543557695450" duration="926000" />
+      <workItem from="1543564425554" duration="1760000" />
+      <workItem from="1543800785814" duration="3280000" />
+      <workItem from="1543829490469" duration="842000" />
+      <workItem from="1545382880476" duration="644000" />
+      <workItem from="1545880415198" duration="1622000" />
+      <workItem from="1550049200130" duration="644000" />
+      <workItem from="1550132756168" duration="4949000" />
+      <workItem from="1550194708206" duration="1586000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Seven2_main - 2018.10.24 at 18h 35m 02s.xml">
+      <configuration name="Seven2.main" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Seven2_main - 2018.10.24 at 18h 35m 30s.xml">
+      <configuration name="Seven2.main" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Seven2_main - 2018.10.24 at 18h 35m 41s.xml">
+      <configuration name="Seven2.main" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Seven2_main - 2018.10.24 at 19h 07m 27s.xml">
+      <configuration name="Seven2.main" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyCompleteFuture_method - 2018.11.14 at 16h 28m 59s.xml">
+      <configuration name="MyCompleteFuture.method" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyCompleteFuture_method - 2018.11.14 at 16h 29m 10s.xml">
+      <configuration name="MyCompleteFuture.method" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyCompleteFuture_method - 2018.11.14 at 16h 32m 14s.xml">
+      <configuration name="MyCompleteFuture.method" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="test1_test2 - 2019.02.14 at 16h 57m 44s.xml">
+      <configuration name="test1.test2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RedisTest_test3 - 2019.02.15 at 10h 56m 22s.xml">
+      <configuration name="RedisTest.test3" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RedisSimpleTest_test3 - 2019.02.15 at 10h 58m 32s.xml">
+      <configuration name="RedisSimpleTest.test3" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="691116000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="0" sideWeight="0.19215903" side_tool="true" weight="0.26718405" />
+      <window_info anchor="bottom" id="Application Servers" order="1" weight="0.3292683" />
+      <window_info anchor="right" id="Maven Projects" order="10" weight="0.32965213" />
+      <window_info anchor="bottom" id="Database Changes" order="2" show_stripe_button="false" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Database" order="4" weight="0.32965213" />
+      <window_info id="Structure" order="1" sideWeight="0.13069908" side_tool="true" visible="true" weight="0.27388182" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24958587" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="bottom" id="Debug" order="13" sideWeight="0.80784094" weight="0.46341464" />
+      <window_info anchor="bottom" id="TODO" order="14" sideWeight="0.4997239" weight="0.3292683" />
+      <window_info anchor="bottom" id="Messages" order="3" sideWeight="0.49475428" weight="0.31263858" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="bottom" id="Java Enterprise" order="4" weight="0.3292683" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="5" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="12" sideWeight="0.80784094" visible="true" weight="0.27051" />
+      <window_info anchor="bottom" id="Spring" order="6" sideWeight="0.4997239" weight="0.3292683" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49917173" weight="0.2549889" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.8693009" visible="true" weight="0.27388182" />
+      <window_info anchor="right" id="Bean Validation" order="8" />
+      <window_info id="Web" order="2" sideWeight="0.61136025" side_tool="true" weight="0.32909995" />
+      <window_info anchor="bottom" id="Find" order="9" weight="0.3292683" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info id="Favorites" order="2" sideWeight="0.61136025" side_tool="true" weight="0.32909995" />
+      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Database Console" order="15" sideWeight="0.4997239" weight="0.3292683" />
+      <window_info active="true" anchor="bottom" id="REST Client" order="16" visible="true" weight="0.6363636" />
+      <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.32965213" />
+      <window_info anchor="bottom" id="Message" order="8" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="bottom" id="Application Servers" order="1" weight="0.3292683" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="bottom" id="REST Client" order="16" weight="0.18957871" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Spring" order="6" sideWeight="0.4997239" weight="0.3292683" />
+      <window_info anchor="bottom" id="Database Console" order="15" sideWeight="0.4997239" weight="0.3292683" />
+      <window_info anchor="bottom" id="Run" order="12" sideWeight="0.80784094" weight="0.26718405" />
+      <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24958587" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" sideWeight="0.61136025" side_tool="true" weight="0.32909995" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49917173" weight="0.2549889" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Event Log" order="0" sideWeight="0.19215903" side_tool="true" visible="true" weight="0.26718405" />
+      <window_info anchor="bottom" id="Messages" order="3" sideWeight="0.49475428" weight="0.31263858" />
+      <window_info anchor="bottom" id="TODO" order="14" sideWeight="0.4997239" weight="0.3292683" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Java Enterprise" order="4" weight="0.3292683" />
+      <window_info anchor="bottom" id="Database Changes" order="2" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="5" show_stripe_button="false" />
+      <window_info anchor="right" id="Maven Projects" order="10" weight="0.32965213" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.85325265" visible="true" weight="0.2457206" />
+      <window_info anchor="right" id="Database" order="4" weight="0.32965213" />
+      <window_info anchor="bottom" id="Message" order="8" />
+      <window_info id="Web" order="7" sideWeight="0.61136025" side_tool="true" weight="0.32909995" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info id="Structure" order="1" sideWeight="0.14674735" side_tool="true" visible="true" weight="0.2457206" />
+      <window_info id="Image Layers" order="6" />
+      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.32965213" />
+      <window_info anchor="bottom" id="Find" order="9" weight="0.3292683" />
+      <window_info anchor="right" id="Bean Validation" order="8" />
+      <window_info anchor="bottom" id="Debug" order="13" sideWeight="0.80784094" weight="0.3880266" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.2.5.RELEASE/spring-context-4.2.5.RELEASE.jar!/org/springframework/context/support/AbstractApplicationContext.class</url>
+          <line>253</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.2.5.RELEASE/spring-context-4.2.5.RELEASE.jar!/org/springframework/context/support/AbstractApplicationContext.class</url>
+          <line>267</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dao/MyBatisDaoTest.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dao/MyBatisDaoTest.java</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dao/MyBatisDaoTest.java</url>
+          <line>30</line>
+          <properties />
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dao/MyBatisDaoTest.java</url>
+          <line>33</line>
+          <properties />
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dao/Test1Dao.java</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/JavaEE_Test/Two/InvokeHandleTest/CGLCB/Main.java</url>
+          <line>5</line>
+          <properties />
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/JavaEE_Test/Two/InvokeHandleTest/CGLCB/Main.java</url>
+          <line>6</line>
+          <properties />
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/4.2.5.RELEASE/spring-core-4.2.5.RELEASE.jar!/org/springframework/cglib/proxy/Enhancer.class</url>
+          <line>118</line>
+          <properties />
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/JavaEE_Test/Two/ZeRen/MyInvocationHandler.java</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/JavaEE_Test/Four/PropertyEncodeTest.java</url>
+          <line>30</line>
+          <properties />
+          <option name="timeStamp" value="100" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/JavaEE_Test/Five/mapParamsTest.java</url>
+          <line>45</line>
+          <properties />
+          <option name="timeStamp" value="110" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/JavaEE_Test/Five/RowRoundMainTest.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="115" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.7/mybatis-3.2.7.jar!/org/apache/ibatis/binding/MapperMethod.class</url>
+          <line>42</line>
+          <properties />
+          <option name="timeStamp" value="120" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.7/mybatis-3.2.7.jar!/org/apache/ibatis/executor/BaseExecutor.class</url>
+          <line>88</line>
+          <properties />
+          <option name="timeStamp" value="123" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.7/mybatis-3.2.7.jar!/org/apache/ibatis/executor/statement/RoutingStatementHandler.class</url>
+          <line>52</line>
+          <properties />
+          <option name="timeStamp" value="124" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.7/mybatis-3.2.7.jar!/org/apache/ibatis/executor/statement/PreparedStatementHandler.class</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="125" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.7/mybatis-3.2.7.jar!/org/apache/ibatis/session/defaults/DefaultSqlSession.class</url>
+          <line>241</line>
+          <properties />
+          <option name="timeStamp" value="126" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.7/mybatis-3.2.7.jar!/org/apache/ibatis/session/defaults/DefaultSqlSession.class</url>
+          <line>143</line>
+          <properties />
+          <option name="timeStamp" value="127" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.7/mybatis-3.2.7.jar!/org/apache/ibatis/executor/SimpleExecutor.class</url>
+          <line>32</line>
+          <properties />
+          <option name="timeStamp" value="128" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.7/mybatis-3.2.7.jar!/org/apache/ibatis/session/Configuration.class</url>
+          <line>456</line>
+          <properties />
+          <option name="timeStamp" value="129" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.7/mybatis-3.2.7.jar!/org/apache/ibatis/executor/statement/RoutingStatementHandler.class</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="130" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.7/mybatis-3.2.7.jar!/org/apache/ibatis/executor/statement/RoutingStatementHandler.class</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="134" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.7/mybatis-3.2.7.jar!/org/apache/ibatis/executor/statement/RoutingStatementHandler.class</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="136" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.7/mybatis-3.2.7.jar!/org/apache/ibatis/executor/keygen/SelectKeyGenerator.class</url>
+          <line>58</line>
+          <properties />
+          <option name="timeStamp" value="141" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.7/mybatis-3.2.7.jar!/org/apache/ibatis/executor/statement/BaseStatementHandler.class</url>
+          <line>47</line>
+          <properties />
+          <option name="timeStamp" value="142" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.7/mybatis-3.2.7.jar!/org/apache/ibatis/mapping/MappedStatement.class</url>
+          <line>141</line>
+          <properties />
+          <option name="timeStamp" value="144" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.7/mybatis-3.2.7.jar!/org/apache/ibatis/scripting/xmltags/DynamicSqlSource.class</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="149" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/JavaEE_Test/Ten/Condition/PropertyCondition.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="191" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/JavaEE_Test/Two/InvokeHandleTest/CGLCB/clgbProx.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="196" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/JavaEE_Test/Eleven/DeclareParents/VerifyMain.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="221" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/JavaEE_Test/Eleven/XmlAop/XmlAspectTest.java</url>
+          <line>40</line>
+          <properties />
+          <option name="timeStamp" value="228" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/JavaEE_Test/Twelve/Main12.java</url>
+          <line>66</line>
+          <properties />
+          <option name="timeStamp" value="230" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/JavaEE_Test/Twelve/Main12.java</url>
+          <line>67</line>
+          <properties />
+          <option name="timeStamp" value="231" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-jdbc/4.2.5.RELEASE/spring-jdbc-4.2.5.RELEASE.jar!/org/springframework/jdbc/core/JdbcTemplate.class</url>
+          <line>622</line>
+          <properties />
+          <option name="timeStamp" value="232" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/JavaEE_Test/Thirteen/ThirteenMain.java</url>
+          <line>29</line>
+          <properties />
+          <option name="timeStamp" value="236" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/JavaEE_Test/Thirteen/RoleListService.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="237" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/JavaEE_Test/Thirteen/RoleListService.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="240" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/JavaEE_Test/Thirteen/RoleService.java</url>
+          <line>58</line>
+          <properties />
+          <option name="timeStamp" value="257" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/JavaEE_Test/FourTeen/MyController1.java</url>
+          <line>55</line>
+          <properties />
+          <option name="timeStamp" value="268" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/JavaEE_Test/FourTeen/MyController1.java</url>
+          <line>56</line>
+          <properties />
+          <option name="timeStamp" value="270" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/JavaEE_Test/FourTeen/MyController1.java</url>
+          <line>52</line>
+          <properties />
+          <option name="timeStamp" value="271" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/JavaEE_Test/FourTeen/MyController2.java</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="281" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/JavaEE_Test/FourTeen/MyController2.java</url>
+          <line>41</line>
+          <properties />
+          <option name="timeStamp" value="283" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/JavaEE_Test/FourTeen/MyController2.java</url>
+          <line>66</line>
+          <properties />
+          <option name="timeStamp" value="290" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.2.5.RELEASE/spring-web-4.2.5.RELEASE.jar!/org/springframework/web/filter/DelegatingFilterProxy.class</url>
+          <line>79</line>
+          <properties />
+          <option name="timeStamp" value="296" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.2.5.RELEASE/spring-web-4.2.5.RELEASE.jar!/org/springframework/web/filter/DelegatingFilterProxy.class</url>
+          <line>96</line>
+          <properties />
+          <option name="timeStamp" value="297" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/JavaEE_Test/FourTeen/MyController2.java</url>
+          <line>82</line>
+          <properties />
+          <option name="timeStamp" value="311" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/JavaEE_Test/FourTeen/MyController2.java</url>
+          <line>83</line>
+          <properties />
+          <option name="timeStamp" value="312" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/JavaEE_Test/FourTeen/MyController2.java</url>
+          <line>88</line>
+          <properties />
+          <option name="timeStamp" value="313" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/JavaEE_Test/FourTeen/MyController2.java</url>
+          <line>96</line>
+          <properties />
+          <option name="timeStamp" value="314" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/JavaEE_Test/FourTeen/MyController2.java</url>
+          <line>98</line>
+          <properties />
+          <option name="timeStamp" value="315" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/JavaEE_Test/FourTeen/MyController1.java</url>
+          <line>60</line>
+          <properties />
+          <option name="timeStamp" value="321" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/JavaEE_Test/FiveTeen/MyInterceptor2.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="327" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/JavaEE_Test/Dao/Transaction.java</url>
+          <line>68</line>
+          <properties />
+          <option name="timeStamp" value="342" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/JavaEE_Test/Dao/Transaction.java</url>
+          <line>63</line>
+          <properties />
+          <option name="timeStamp" value="344" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/JavaEE_Test/FiveTeen/Validation/MyValidator.java</url>
+          <line>10</line>
+          <properties />
+          <option name="timeStamp" value="346" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/JavaEE_Test/FiveTeen/Validation/MyController4.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="348" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/JavaEE_Test/FiveTeen/Validation/MyController4.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="349" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.2.5.RELEASE/spring-webmvc-4.2.5.RELEASE.jar!/org/springframework/web/servlet/DispatcherServlet.class</url>
+          <line>469</line>
+          <properties />
+          <option name="timeStamp" value="373" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/JavaEE_Test/SixTeen/ConfigJava.java</url>
+          <line>30</line>
+          <properties />
+          <option name="timeStamp" value="377" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/JavaEE_Test/SixTeen/ConfigJava.java</url>
+          <line>31</line>
+          <properties />
+          <option name="timeStamp" value="378" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/JavaEE_Test/SixTeen/ConfigJava.java</url>
+          <line>32</line>
+          <properties />
+          <option name="timeStamp" value="379" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/JavaEE_Test/SixTeen/MyExceptionHandler.java</url>
+          <line>37</line>
+          <properties />
+          <option name="timeStamp" value="407" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/JavaEE_Test/SixTeen/MyExceptionHandler.java</url>
+          <line>38</line>
+          <properties />
+          <option name="timeStamp" value="408" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/JavaEE_Test/FiveTeen/Validation/MyValidator.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="411" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/JavaEE_Test/SixTeen/IntegerEditor.java</url>
+          <line>7</line>
+          <properties />
+          <option name="timeStamp" value="412" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/JavaEE_Test/SixTeen/MyController6.java</url>
+          <line>112</line>
+          <properties />
+          <option name="timeStamp" value="415" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/JavaEE_Test/SixTeen/MyController6.java</url>
+          <line>168</line>
+          <properties />
+          <option name="timeStamp" value="416" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/JavaEE_Test/SixTeen/MyController6.java</url>
+          <line>117</line>
+          <properties />
+          <option name="timeStamp" value="417" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/JavaEE_Test/SixTeen/MyController6.java</url>
+          <line>137</line>
+          <properties />
+          <option name="timeStamp" value="418" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/JavaEE_Test/SixTeen/MyController6.java</url>
+          <line>151</line>
+          <properties />
+          <option name="timeStamp" value="419" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/JavaEE_Test/SixTeen/MyController6.java</url>
+          <line>199</line>
+          <properties />
+          <option name="timeStamp" value="422" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/JavaEE_Test/SixTeen/MyController6.java</url>
+          <line>183</line>
+          <properties />
+          <option name="timeStamp" value="425" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/JavaEE_Test/SixTeen/MyController6.java</url>
+          <line>188</line>
+          <properties />
+          <option name="timeStamp" value="426" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/JavaEE_Test/SixTeen/MyController6.java</url>
+          <line>201</line>
+          <properties />
+          <option name="timeStamp" value="427" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/JavaEE_Test/SixTeen/MyController6.java</url>
+          <line>204</line>
+          <properties />
+          <option name="timeStamp" value="428" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/JavaEE_Test/SixTeen/MyController6.java</url>
+          <line>177</line>
+          <properties />
+          <option name="timeStamp" value="429" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/JavaEE_Test/SixTeen/MyController6.java</url>
+          <line>212</line>
+          <properties />
+          <option name="timeStamp" value="430" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.2.5.RELEASE/spring-context-4.2.5.RELEASE.jar!/org/springframework/context/support/ResourceBundleMessageSource.class</url>
+          <line>56</line>
+          <properties />
+          <option name="timeStamp" value="434" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.2.5.RELEASE/spring-context-4.2.5.RELEASE.jar!/org/springframework/context/support/ResourceBundleMessageSource.class</url>
+          <line>57</line>
+          <properties />
+          <option name="timeStamp" value="436" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/JavaEE_Test/SixTeen/MyController6.java</url>
+          <line>211</line>
+          <properties />
+          <option name="timeStamp" value="437" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/JavaEE_Test/SixTeen/GlobalController.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="460" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/JavaEE_Test/SixTeen/MyController6.java</url>
+          <line>224</line>
+          <properties />
+          <option name="timeStamp" value="461" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/JavaEE_Test/SixTeen/MyController6.java</url>
+          <line>221</line>
+          <properties />
+          <option name="timeStamp" value="463" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/JavaEE_Test/ShiBa/RedisSimpleTest.java</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="464" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/JavaEE_Test/ShiBa/RedisSimpleTest.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="465" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/JavaEE_Test/ShiBa/RedisSimpleTest.java</url>
+          <line>30</line>
+          <properties />
+          <option name="timeStamp" value="466" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/JavaEE_Test/ShiBa/RedisSimpleTest.java</url>
+          <line>31</line>
+          <properties />
+          <option name="timeStamp" value="467" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/JavaEE_Test/ShiBa/RedisSimpleTest.java</url>
+          <line>32</line>
+          <properties />
+          <option name="timeStamp" value="468" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/JavaEE_Test/ShiBa/RedisSimpleTest.java</url>
+          <line>53</line>
+          <properties />
+          <option name="timeStamp" value="469" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/JavaEE_Test/ShiBa/RedisSimpleTest.java</url>
+          <line>55</line>
+          <properties />
+          <option name="timeStamp" value="470" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/JavaEE_Test/ShiBa/RedisSimpleTest.java</url>
+          <line>39</line>
+          <properties />
+          <option name="timeStamp" value="471" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/JavaEE_Test/ShiBa/RedisTest.java</url>
+          <line>40</line>
+          <properties />
+          <option name="timeStamp" value="473" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/JavaEE_Test/ShiBa/RedisTest.java</url>
+          <line>34</line>
+          <properties />
+          <option name="timeStamp" value="478" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/JavaEE_Test/ShiBa/RedisTest.java</url>
+          <line>35</line>
+          <properties />
+          <option name="timeStamp" value="479" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/JavaEE_Test/ShiBa/RedisTest.java</url>
+          <line>33</line>
+          <properties />
+          <option name="timeStamp" value="480" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/JavaEE_Test/ShiBa/RedisTest.java</url>
+          <line>72</line>
+          <properties />
+          <option name="timeStamp" value="481" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/JavaEE_Test/Nineteen/RoleServiceImpl.java</url>
+          <line>42</line>
+          <properties />
+          <option name="timeStamp" value="492" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/JavaEE_Test/Nineteen/RoleServiceImpl.java</url>
+          <line>43</line>
+          <properties />
+          <option name="timeStamp" value="493" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/JavaEE_Test/Nineteen/Test2.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="497" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/JavaEE_Test/Thirteen/Controller19.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="498" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/JavaEE_Test/Thirteen/Controller19.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="499" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/JavaEE_Test/Nineteen/Controller19.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="500" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/JavaEE_Test/FiveTeen/Controller19.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="504" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/CoreJava1/Two/Inc.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="506" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/CoreJava1/Two/Test３.java</url>
+          <line>48</line>
+          <properties />
+          <option name="timeStamp" value="512" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/CoreJava1/Two/Test6.java</url>
+          <line>57</line>
+          <properties />
+          <option name="timeStamp" value="515" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/CoreJava1/Two/Test6.java</url>
+          <line>94</line>
+          <properties />
+          <option name="timeStamp" value="516" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/CoreJava1/Two/Test6.java</url>
+          <line>95</line>
+          <properties />
+          <option name="timeStamp" value="517" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/CoreJava1/Two/Test6.java</url>
+          <line>92</line>
+          <properties />
+          <option name="timeStamp" value="521" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/CoreJava1/Two/Test6.java</url>
+          <line>68</line>
+          <properties />
+          <option name="timeStamp" value="523" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/CoreJava1/Two/Test７.java</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="533" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/CoreJava1/Five/Test.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="551" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/CoreJava1/Seven/Seven2.java</url>
+          <line>51</line>
+          <properties />
+          <option name="timeStamp" value="556" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/CoreJava1/Seven/Seven2.java</url>
+          <line>48</line>
+          <properties />
+          <option name="timeStamp" value="557" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/CoreJava1/Seven/Seven2.java</url>
+          <line>35</line>
+          <properties />
+          <option name="timeStamp" value="560" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/CoreJava1/BA/Main2.java</url>
+          <line>61</line>
+          <properties />
+          <option name="timeStamp" value="577" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/CoreJava1/BA/Main2.java</url>
+          <line>83</line>
+          <properties />
+          <option name="timeStamp" value="578" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/CoreJava1/BA/Main2.java</url>
+          <line>86</line>
+          <properties />
+          <option name="timeStamp" value="579" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/CoreJava1/BA/Main2.java</url>
+          <line>81</line>
+          <properties />
+          <option name="timeStamp" value="580" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/CoreJava1/FourTeen/JiHe.java</url>
+          <line>40</line>
+          <properties>
+            <option name="lambda-ordinal" value="0" />
+          </properties>
+          <option name="timeStamp" value="588" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/CoreJava1/FourTeen/RunnableMain.java</url>
+          <line>74</line>
+          <properties />
+          <option name="timeStamp" value="594" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/CoreJava1/FourTeen/RunnableMain.java</url>
+          <line>42</line>
+          <properties />
+          <option name="timeStamp" value="596" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/src/main/JavaEE_Test/Dao/HttpRole.java</url>
+          <line>8</line>
+          <properties field="name" class="Dao.HttpRole" />
+          <option name="timeStamp" value="310" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="600" />
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="breakpointCondition">
+      <expression>
+        <expression-string>name=&quot;roleService&quot;</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>action=&quot;login&quot;</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>action=&quot;login&quot;;</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>user2.name=&quot;fdfdgdsg&quot;</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar:///opt/Java/jdk/jdk1.8/src.zip!/java/util/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="841" column="19" selection-start-line="841" selection-start-column="19" selection-end-line="841" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///opt/Java/jdk/jdk1.8/src.zip!/java/lang/Long.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="998" column="16" selection-start-line="998" selection-start-column="16" selection-end-line="998" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/CoreJava1/FourTeen/JiHe.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="46" selection-start-line="46" selection-end-line="48" selection-end-column="60" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///opt/Java/jdk/jdk1.8/src.zip!/java/util/AbstractList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="147" selection-start-line="147" selection-end-line="147" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/CoreJava1/FourTeen/TestCopyOnWriteArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="32" column="37" selection-start-line="32" selection-start-column="37" selection-end-line="32" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///opt/Java/jdk/jdk1.8/src.zip!/java/util/concurrent/RunnableFuture.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="47" column="17" selection-start-line="47" selection-start-column="17" selection-end-line="47" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///opt/Java/jdk/jdk1.8/src.zip!/java/util/concurrent/FutureTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1470">
+          <caret line="131" column="11" selection-start-line="131" selection-start-column="11" selection-end-line="131" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/CoreJava1/Two/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///opt/Java/jdk/jdk1.8/src.zip!/java/util/concurrent/ExecutorService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3240">
+          <caret line="250" column="18" selection-start-line="250" selection-start-column="18" selection-end-line="250" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///opt/Java/jdk/jdk1.8/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="747" selection-start-line="747" selection-end-line="747" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///opt/Java/jdk/jdk1.8/src.zip!/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="945" column="15" selection-start-line="945" selection-start-column="15" selection-end-line="945" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///opt/Java/jdk/jdk1.8/src.zip!/java/util/concurrent/ScheduledExecutorService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="417">
+          <caret line="186" lean-forward="true" selection-start-line="186" selection-end-line="186" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///opt/Java/jdk/jdk1.8/src.zip!/java/util/concurrent/Executors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="283" column="38" lean-forward="true" selection-start-line="283" selection-start-column="38" selection-end-line="283" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///opt/Java/jdk/jdk1.8/src.zip!/java/util/concurrent/Future.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="150" column="6" selection-start-line="150" selection-start-column="6" selection-end-line="150" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///opt/Java/jdk/jdk1.8/src.zip!/java/util/concurrent/CompletableFuture.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32355">
+          <caret line="2234" column="6" selection-start-line="2234" selection-start-column="6" selection-end-line="2234" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.10/junit-4.10.jar!/org/junit/runner/RunWith.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/CoreJava1/FourTeen/MyCompleteFuture.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/CoreJava1/FourTeen/RunnableMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/CoreJava1/FourTeen/MyCallable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/CoreJava1/Five/Test1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/CoreJava1/Two/Test３.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="41" column="16" selection-start-line="41" selection-start-column="16" selection-end-line="41" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/JavaEE_Test/Utils/Base64Utils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///opt/Java/jdk/jdk1.8/src.zip!/java/text/MessageFormat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="343" column="13" selection-start-line="343" selection-start-column="13" selection-end-line="343" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/MessageBundle_en_US.properties">
+      <provider editor-type-id="ResourceBundle" />
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/JavaEE_Test/FiveTeen/MyController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="40" column="31" selection-start-line="40" selection-start-column="31" selection-end-line="40" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/JavaEE_Test/SixTeen/LocaleTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mvc-dispatcher.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="66" selection-start-line="30" selection-start-column="56" selection-end-line="30" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/CoreJava1/FourTeen/CallableMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mvc-dispatcher-language.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="48" selection-start-line="29" selection-start-column="48" selection-end-line="29" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/language_zh_CN.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="9" lean-forward="true" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/MyBatisTest/myBatis-conf-P.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/Test/Role.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/MyBatisTest/myBatis-conf-PF.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/testMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-19">
+          <caret line="40" column="12" selection-start-line="40" selection-start-column="6" selection-end-line="40" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/JavaEE_Test/Dao/Role.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/testMapper12.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/JavaEE_Test/Nineteen/RoleServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="45" column="5" selection-start-line="45" selection-start-column="5" selection-end-line="45" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/JavaEE_Test/Nineteen/NewRoleMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/testMapper19.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/persistence-mysql.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-orm/4.2.5.RELEASE/spring-orm-4.2.5.RELEASE.jar!/org/springframework/orm/hibernate4/LocalSessionFactoryBean.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring-hibernate.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" column="11" selection-start-line="36" selection-start-column="11" selection-end-line="36" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring-MyBatis-conf.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="19" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/MyBatisTest/spring-MyBatis-conf12.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="15" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis-spring/1.2.2/mybatis-spring-1.2.2.jar!/org/mybatis/spring/support/SqlSessionDaoSupport.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis-spring/1.2.2/mybatis-spring-1.2.2.jar!/org/mybatis/spring/SqlSessionTemplate.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/MyBatisTest/spring-ceshi-mybatis12.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="42" column="58" selection-start-line="42" selection-start-column="58" selection-end-line="42" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/JavaEE_Test/ShiBa/RedisTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="22" column="55" lean-forward="true" selection-start-line="22" selection-start-column="55" selection-end-line="22" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring-mvc-redis.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="48" column="49" lean-forward="true" selection-start-line="48" selection-start-column="49" selection-end-line="48" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/JavaEE_Test/ShiBa/MyRedisListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/JavaEE_Test/ShiBa/RedisSimpleTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-218">
+          <caret line="35" column="5" lean-forward="true" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>Maven_MVC_test:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Maven_MVC_test</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

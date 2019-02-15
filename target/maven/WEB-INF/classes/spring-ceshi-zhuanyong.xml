@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xmlns:aop="http://www.springframework.org/schema/aop"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+
+        http://www.springframework.org/schema/beans/spring-beans-4.0.xsd
+        http://www.springframework.org/schema/context
+        http://www.springframework.org/schema/context/spring-context-4.0.xsd
+        http://www.springframework.org/schema/aop
+        http://www.springframework.org/schema/aop/spring-aop-4.0.xsd">
+
+    <!-- Hibernate4 -->
+    <!-- 加载资源文件  其中包含变量信息，必须在Spring配置文件的最前面加载，即第一个加载-->
+
+    <context:property-placeholder location="classpath:persistence-mysql.properties"/>
+    <bean id="dataSource" class="org.springframework.jdbc.datasource.DriverManagerDataSource">
+        <property name="driverClassName" value="org.mariadb.jdbc.Driver"></property>
+        <property name="url" value="jdbc:mysql://127.0.0.1:3306/lccTest2"></property>
+        <property name="username" value="root"></property>
+        <property name="password" value="123456"></property>
+    </bean>
+    <bean id="jdbcTemplate" class="org.springframework.jdbc.core.JdbcTemplate">
+        <property name="dataSource" ref="dataSource"></property>
+    </bean>
+
+   <!-- <aop:aspectj-autoproxy />-->
+    <bean id="role" class="Dao.Role">
+        <property name="id" value="99"/>
+        <property name="name" value="woshilcc"/>
+    </bean>
+    <bean id="roleService" class="Eleven.RoleServiceImpl"/>
+
+
+    <bean id="xmlAop" class="Eleven.XmlAop.XmlAspectTest"/>
+    <bean id="xmlAop2" class="Eleven.XmlAop.XmlAspectTest2"/>
+
+    <aop:config>
+      <!--  <aop:aspect ref="xmlAop2" order="2" >
+            <aop:pointcut id="point1" expression="execution(* Eleven.RoleService.print(..))"/>
+            <aop:after method="after" pointcut-ref="point1"/>
+
+            <aop:after-throwing method="afterThrowing" pointcut-ref="point1"/>
+            <aop:before method="before" pointcut-ref="point1"/>
+            <aop:around method="aroud" pointcut-ref="point1"/>
+            <aop:after-returning method="afterReturning" pointcut-ref="point1"/>
+        </aop:aspect>-->
+
+        <aop:aspect ref="xmlAop" order="1">
+            <aop:pointcut id="point" expression="execution(* Eleven.RoleService.*(..))"/>
+            <aop:after-returning method="afterReturning" pointcut-ref="point"/>
+            <aop:after-throwing method="afterThrowing" pointcut-ref="point"/>
+            <aop:around method="aroud" pointcut-ref="point"/>
+            <aop:before method="before" pointcut="execution(* Eleven.RoleService.*(..)) and args(role)"/>
+            <aop:after method="after" pointcut-ref="point"/>
+        </aop:aspect>
+        <!--引入-->
+        <aop:aspect>
+            <aop:declare-parents types-matching="Eleven.RoleService+" implement-interface="Eleven.DeclareParents.RoleVerifier" default-impl="Eleven.DeclareParents.RoleVerifierImpl"/>
+        </aop:aspect>
+
+
+
+    </aop:config>
+</beans>

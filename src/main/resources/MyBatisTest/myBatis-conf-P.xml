@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE configuration PUBLIC "-//mybatis.org//DTD Config 3.0//EN" "http://mybatis.org/dtd/mybatis-3-config.dtd">
+<configuration>
+    <properties>
+        <property name="dtbase.driver" value="org.mariadb.jdbc.Driver"></property>
+        <property name="dtbase.url" value="jdbc:mysql://127.0.0.1:3306/lccTest"></property>
+        <property name="dtbase.username" value="root"></property>
+        <property name="dtbase.password" value="123456"></property>
+    </properties>
+    <typeAliases >
+        <package name="Three.Dao"></package>
+        <!--<typeAlias type="Dao.Role" alias="role"/>-->
+    </typeAliases>
+    <typeHandlers>
+        <typeHandler jdbcType="INTEGER" javaType="Four.TypeHandler.SexEnum" handler="Four.TypeHandler.SexEnumHandler"/>
+    </typeHandlers>
+    <environments default="development">
+        <environment id="development">
+            <transactionManager type="JDBC"></transactionManager>
+            <dataSource type="POOLED">
+                <property name="driver" value="${dtbase.driver}"/>
+                <property name="url" value="${dtbase.url}"/>
+                <property name="username" value="${dtbase.username}"/>
+                <property name="password" value="${dtbase.password}"/>
+            </dataSource>
+        </environment>
+    </environments>
+    <mappers>
+        <mapper resource="mapper/testMapper.xml"></mapper>
+        <!--<package name="mapper"/>-->
+    </mappers>
+</configuration>

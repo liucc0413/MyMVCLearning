@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="Nineteen.NewRoleMapper">
+    <resultMap id="role" type="Dao.Role">
+        <result property="id" column="id"></result>
+        <result property="name" column="name"/>
+        <result property="sex" column="sex" typeHandler="org.apache.ibatis.type.EnumOrdinalTypeHandler"/>
+    </resultMap>
+    <select id="getRole" parameterType="int" resultMap="role">
+      select * from Role where  id = #{id}
+    </select>
+
+    <insert id="insert" useGeneratedKeys="true" keyProperty="id">
+        insert into Role(id, name) values (#{id},#{name})
+    </insert>
+    <delete id="delete" >
+        delete from Role where id=#{id}
+    </delete>
+    <update id="update">
+        update Role set name = #{name} where id = #{id}
+    </update>
+</mapper>

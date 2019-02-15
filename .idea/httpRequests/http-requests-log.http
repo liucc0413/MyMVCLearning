@@ -1,0 +1,62 @@
+GET http://10.156.1.33:80/uim/api/v1/users
+Accept: */*
+Cache-Control: no-cache
+AccessKeyId: cplat
+Signature: TShv6H5rhpGO5yadd1YoTLYj0S0J00ZUW0+rB/RJrqg=
+SignatureVersion: 1.0
+SignatureNonce: 0477ae68-4408-459c-8850-e9bf99f579ce
+SignatureMethod: HMAC-SHA256
+Timestamp: 2018-10-23T10:30:38Z
+
+<> 2018-10-23T063137.200.json
+
+###
+
+GET http://10.156.1.33:80/uim/api/v1/users
+Accept: */*
+Cache-Control: no-cache
+AccessKeyId: cplat
+Signature: TShv6H5rhpGO5yadd1YoTLYj0S0J00ZUW0+rB/RJrqg=
+SignatureVersion: 1.0
+SignatureNonce: a6fe704e-318d-46c1-8b22-fe27807aa512
+SignatureMethod: HMAC-SHA256
+Timestamp: 2018-10-23T10:26:50Z
+
+<> 2018-10-23T062934.200.json
+
+###
+
+GET http://10.156.1.33:80/uim/api/v1/users
+Accept: */*
+Cache-Control: no-cache
+AccessKeyId: cplat
+Signature: TShv6H5rhpGO5yadd1YoTLYj0S0J00ZUW0+rB/RJrqg=
+SignatureVersion: 1.0
+SignatureNonce: a6fe704e-318d-46c1-8b22-fe27807aa512
+SignatureMethod: HMAC-SHA256
+Timestamp: 2018-10-23T10:26:50Z
+
+<> 2018-10-23T062924.200.json
+
+###
+
+GET http://10.156.1.33:80/uim/api/v1/users
+Accept: */*
+Cache-Control: no-cache
+accessKeyId: cplat
+accessKeySecret: cplat-secret
+
+<> 2018-10-23T061446.200.json
+
+###
+
+GET http://10.156.1.33:80/uim
+Accept: */*
+Cache-Control: no-cache
+accessKeyId: cplat
+accessKeySecret: cplat-secret
+
+<> 2018-10-23T061430.200.html
+
+###
+

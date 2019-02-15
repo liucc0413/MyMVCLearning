@@ -1,0 +1,6 @@
+{
+  "code": -1,
+  "message": "The input parameter AccessKeyId that is mandatory for processing this request is not supplied",
+  "success": false,
+  "data": null
+}

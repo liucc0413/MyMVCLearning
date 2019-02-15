@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE configuration PUBLIC "-//mybatis.org//DTD Config 3.0//EN" "http://mybatis.org/dtd/mybatis-3-config.dtd">
+<configuration>
+    <!-- 指定数据库连接信息的位置 -->
+    <properties resource="persistence-mysql.properties"></properties>
+    <!--类型别名，默认引入com.entity下的所有类 -->
+    <!--<package name="com.entity"/>-->
+    <typeAliases>
+        <typeAlias type="com.entity.User" alias="UserBean"/>
+        <!--<package name="com.entity"></package>-->
+    </typeAliases>
+    <environments default="development">
+        <environment id="development">
+            <transactionManager type="JDBC" />
+            <!-- 配置数据库连接信息 -->
+          <!--   mybatis提供了3种数据源类型，分别是：POOLED,UNPOOLED,JNDI
+             POOLED 表示支持JDBC数据源连接池
+            UNPOOLED 表示不支持数据源连接池
+             JNDI 表示支持外部数据源连接池 -->
+            <dataSource type="POOLED">
+                <property name="driver" value="${hibernate.connection.driverClass}"></property>
+                <property name="url" value="${hibernate.connection.url}"></property>
+                <property name="username" value="${hibernate.connection.username}"></property>
+                <property name="password" value="${hibernate.connection.password}"></property>
+            </dataSource>
+        </environment>
+    </environments>
+
+    <mappers>
+        <!-- 告知映射文件方式1，一个一个的配置
+         <mapper resource="com/cy/mybatis/mapper/UserMapper.xml"/>-->
+        <!-- 告知映射文件方式2，自动扫描包内的Mapper接口与配置文件 -->
+        <!--<package name="mapper" />-->
+        <mapper resource="userMapper.xml"></mapper>
+    </mappers>
+</configuration>
